@@ -1,0 +1,21 @@
+C:\Users\hotgi\Desktop\ceramic\ceramic1.0\ceramic1.0\bin\Debug\ceramic1.0.exe.config
+C:\Users\hotgi\Desktop\ceramic\ceramic1.0\ceramic1.0\bin\Debug\ceramic1.0.exe
+C:\Users\hotgi\Desktop\ceramic\ceramic1.0\ceramic1.0\bin\Debug\ceramic1.0.pdb
+C:\Users\hotgi\Desktop\ceramic\ceramic1.0\ceramic1.0\obj\Debug\ceramic1.0.csprojAssemblyReference.cache
+C:\Users\hotgi\Desktop\ceramic\ceramic1.0\ceramic1.0\obj\Debug\ceramic1._0.Form1.resources
+C:\Users\hotgi\Desktop\ceramic\ceramic1.0\ceramic1.0\obj\Debug\ceramic1._0.Properties.Resources.resources
+C:\Users\hotgi\Desktop\ceramic\ceramic1.0\ceramic1.0\obj\Debug\ceramic1.0.csproj.GenerateResource.cache
+C:\Users\hotgi\Desktop\ceramic\ceramic1.0\ceramic1.0\obj\Debug\ceramic1.0.csproj.CoreCompileInputs.cache
+C:\Users\hotgi\Desktop\ceramic\ceramic1.0\ceramic1.0\obj\Debug\ceramic1.0.exe
+C:\Users\hotgi\Desktop\ceramic\ceramic1.0\ceramic1.0\obj\Debug\ceramic1.0.pdb
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\bin\Debug\ceramic1.0.exe.config
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\bin\Debug\ceramic1.0.exe
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\bin\Debug\ceramic1.0.pdb
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\obj\Debug\ceramic1.0.csproj.AssemblyReference.cache
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\obj\Debug\ceramic1.0.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\obj\Debug\ceramic1._0.Form1.resources
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\obj\Debug\ceramic1._0.Properties.Resources.resources
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\obj\Debug\ceramic1.0.csproj.GenerateResource.cache
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\obj\Debug\ceramic1.0.csproj.CoreCompileInputs.cache
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\obj\Debug\ceramic1.0.exe
+D:\OneDrive - GIST\Project\세라믹\ver_2\세라믹ver2\ceramic1.0\obj\Debug\ceramic1.0.pdb

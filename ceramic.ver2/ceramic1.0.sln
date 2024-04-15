@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ceramic1.0", "ceramic1.0\ceramic1.0.csproj", "{A36DE73F-A675-45CB-8EEF-8FDFADCE6958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A36DE73F-A675-45CB-8EEF-8FDFADCE6958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36DE73F-A675-45CB-8EEF-8FDFADCE6958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36DE73F-A675-45CB-8EEF-8FDFADCE6958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36DE73F-A675-45CB-8EEF-8FDFADCE6958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FB60959-E5AD-4517-B9C4-1CACCA93AC5F}
+	EndGlobalSection
+EndGlobal
